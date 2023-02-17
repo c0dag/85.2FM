@@ -1,0 +1,11 @@
+Model Information:
+* title:	Portal Radio Remastered
+* source:	https://sketchfab.com/3d-models/portal-radio-remastered-8e6fc07851c5413ebfca5193bbf0f000
+* author:	Igrium (https://sketchfab.com/Sam54123)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Portal Radio Remastered" (https://sketchfab.com/3d-models/portal-radio-remastered-8e6fc07851c5413ebfca5193bbf0f000) by Igrium (https://sketchfab.com/Sam54123) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
